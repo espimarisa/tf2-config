@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/disguise/disguisestatuspanel_bottom.res 

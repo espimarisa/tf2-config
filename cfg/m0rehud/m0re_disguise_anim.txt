@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/disguise/hudplayerclass_disguise_on.res 

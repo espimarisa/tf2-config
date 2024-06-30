@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/colors/menu_accent/menu_magenta.res 

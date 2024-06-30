@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/colors/ammo_reserve/ammo_reserve_white.res 

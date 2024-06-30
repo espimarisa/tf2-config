@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/colors/ammo_clip/ammo_clip_white.res 

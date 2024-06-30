@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/damage_indicator/layout_indicator_default.res 
