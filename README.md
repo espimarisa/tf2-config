@@ -3,7 +3,7 @@
 This is my personal and opinionated Team Fortress 2 config with a focus on modern performance, quality of life improvements, and competitive integrity. It is also intended to work well on 4K displays (I use one).
 
 - **Valve Servers**: I have no idea what works and what doesn't with it as I don't play Casual and you shouldn't either. Most things should work with the preload launch option.
-- **Sensitivity**: I set my sensitivty automatically in my [autoexec](cfg/overrides/autoexec.cfg). To set yours, edit [line 161](cfg/overrides/autoexec#161) to match your sensitivity.
+- **Sensitivity**: I set my sensitivty automatically in my [autoexec](cfg/overrides/autoexec.cfg). To set yours, edit [line 161](cfg/overrides/autoexec.cfg#161) to match your sensitivity.
 - **Viewmodels**: I use [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor) to selectively show and hide some viewmodels.
 - **Voice Chat**: This config automatically unbinds the default voice chat key (v). You will want to rebind it to a different button or adjust the lines that do so.
 - **Demos**: Demos are automatically created on every game in the `tf/demos` directory. You will want to edit [ds_prefix](cfg/overrides/autoexec.cfg#22) to match your username.
