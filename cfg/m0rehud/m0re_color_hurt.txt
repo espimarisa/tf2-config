@@ -1,1 +1,1 @@
-#base ../../resource/ui/customizations/colors/health_hurt/health_hurt_white.res 
+#base ../../resource/ui/customizations/colors/health_hurt/health_hurt_red.res 

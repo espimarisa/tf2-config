@@ -1,1 +1,1 @@
-#base ../../resource/ui/customizations/health/hudplayerhealth_box_animated.res 
+#base ../../resource/ui/customizations/health/hudplayerhealth_bonuscross_off.res 

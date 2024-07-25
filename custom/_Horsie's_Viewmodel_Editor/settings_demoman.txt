@@ -17,7 +17,7 @@ Demoman settings:
 			Y_rotation=0
 			Z_rotation=0
 		•Hidden(y/n)=n
-			Keep_draw_visible(y/n)=n
+			Keep_draw_visible(y/n)=y
 			Keep_attack_visible(y/n)=n
 			Keep_reload_visible(y/n)=n
 			Keep_idle_visible(y/n)=n
@@ -43,7 +43,7 @@ Demoman settings:
 			X_rotation=0
 			Y_rotation=0
 			Z_rotation=0
-		•Hidden(y/n)=y
+		•Hidden(y/n)=n
 			Keep_draw_visible(y/n)=y
 			Keep_attack_visible(y/n)=n
 			Keep_reload_visible(y/n)=n

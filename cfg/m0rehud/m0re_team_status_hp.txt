@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/matchstatus/hudmatchstatus_progressive.res 

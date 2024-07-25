@@ -1,1 +1,1 @@
-#base ../../resource/ui/customizations/uber/hudmediccharge_font_big.res 
+#base ../../resource/ui/customizations/uber/hudmediccharge_font_small.res 

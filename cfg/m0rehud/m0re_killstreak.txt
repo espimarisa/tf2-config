@@ -1,1 +1,1 @@
-#base ../../resource/ui/customizations/killstreak/huditemeffectmeter_killstreak_bottom_left.res 
+#base ../../resource/ui/customizations/killstreak/huditemeffectmeter_killstreak_top_right.res 
