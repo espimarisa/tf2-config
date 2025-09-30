@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/colors/shadows/shadows_black.res 

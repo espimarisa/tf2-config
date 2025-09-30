@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/colors/ammo_low/ammo_low_red.res 

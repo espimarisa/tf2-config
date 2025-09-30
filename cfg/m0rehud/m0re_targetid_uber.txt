@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/targetid/targetid_icons.res 

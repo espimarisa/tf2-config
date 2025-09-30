@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/ammo/hudammoweapons_font_small.res 

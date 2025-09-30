@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/colors/ubercharge_full/uber_full_magenta.res 
