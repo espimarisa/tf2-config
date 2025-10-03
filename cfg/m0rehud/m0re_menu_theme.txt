@@ -1,0 +1,1 @@
+#base ../../custom/m0rehud/resource/ui/customizations/colors/menu_theme/menu_theme_blue_gray.res 
