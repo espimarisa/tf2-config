@@ -1,0 +1,1 @@
+#base ../../custom/m0rehud/resource/ui/customizations/colors/shadows/shadows_black.res 

@@ -1,0 +1,30 @@
+{
+	"arrowParens": "always",
+	"bracketSameLine": true,
+	"bracketSpacing": true,
+	"embeddedLanguageFormatting": "auto",
+	"endOfLine": "lf",
+	"experimentalTernaries": true,
+	"htmlWhitespaceSensitivity": "css",
+	"jsxSingleQuote": false,
+	"objectWrap": "preserve",
+	"overrides": [
+		{
+			"files": "*.{yaml,yml}",
+			"options": {
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		}
+	],
+	"printWidth": 80,
+	"proseWrap": "preserve",
+	"quoteProps": "consistent",
+	"semi": true,
+	"singleAttributePerLine": false,
+	"singleQuote": false,
+	"tabWidth": 4,
+	"trailingComma": "all",
+	"useTabs": true,
+	"vueIndentScriptAndStyle": true
+}

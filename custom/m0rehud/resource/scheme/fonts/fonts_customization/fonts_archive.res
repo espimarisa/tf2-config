@@ -259,10 +259,9 @@
 			"5"
 			{
 				"name"										"Archive"
-				"Tall"										"8"
 			}
 		}
-		"CloseCaption_Normal"
+		"CloseCaption"
 		{
 			"1"
 			{

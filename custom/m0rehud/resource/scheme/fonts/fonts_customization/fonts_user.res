@@ -104,7 +104,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"surface_medium_numbers"
 			}
 		}
 		"m0refont20"
@@ -139,7 +139,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"surface_medium_numbers"
 			}
 		}
 		"m0refont26"
@@ -167,7 +167,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Numbers"
+				"name"										"surface_medium_numbers"
 			}
 		}
 		"m0refont32"
@@ -228,7 +228,7 @@
 				"name"										"MYFONT"
 			}
 		}
-		"CloseCaption_Normal"
+		"CloseCaption"
 		{
 			"1"
 			{

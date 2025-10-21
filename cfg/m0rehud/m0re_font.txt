@@ -1,1 +1,1 @@
-#base ../../custom/m0rehud/resource/scheme/fonts/fonts_customization/fonts_catamaran.res 
+#base ../../custom/m0rehud/resource/scheme/fonts/fonts_customization/fonts_product_bold.res 

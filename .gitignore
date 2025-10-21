@@ -1,3 +1,11 @@
-*.cache
 _dev
-readme*
+*.cache
+*.zip
+custom/readme.txt
+custom/workshop
+unzipped-vpks
+zipped-vpks
+
+# Explicitly allowed directories.
+!cfg/m0rehud
+!cfg/overrides

@@ -1,1 +1,1 @@
-#base ../../custom/m0rehud/resource/ui/customizations/damage/huddamageaccount_last_ammo.res 
+#base ../../custom/m0rehud/resource/ui/customizations/damage/huddamageaccount_last_health.res 
