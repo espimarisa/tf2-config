@@ -9,6 +9,7 @@ Personal Team Fortress 2 config and other custom content that I use.
 ## Mods
 
 -   [Better Consistent Kill Icons](https://gamebanana.com/mods/406361)
+-   [Cleanest Scope](https://gamebanana.com/mods/605735)
 -   [Crit :3 Crit Icon](https://gamebanana.com/mods/471823)
 -   [Extended Domination Remover](https://gamebanana.com/mods/298459)
 -   [Disable Miss Pauling](https://gamebanana.com/mods/325900)
@@ -19,17 +20,16 @@ Personal Team Fortress 2 config and other custom content that I use.
 -   [Metal Footsteps](custom/_surfaceproperties-noshell-metalsteps.vpk)
 -   [m0rehud + edits](custom/m0rehud)
 -   [No Botkillers/Christmas Lights/Skins/Unusuals](https://pevhs.ch/tf2/)
--   [No Casual Badges/Canteens/Statclocks/Spellbooks](https://gamebanana.com/mods/470051)
 -   [No Custom Decals](https://gamebanana.com/mods/295666)
 -   [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 -   [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
+-   [No Statclocks](https://gamebanana.com/mods/470051)
 -   [Quake III Arena Hitsound](https://gamebanana.com/sounds/21865)
 -   [Quake III Arena Mini-Crit Sound](https://gamebanana.com/sounds/22789)
 -   [Quake III Arena Crit Sound](https://gamebanana.com/sounds/22809)
 -   [Recompilation of LODs](https://gamebanana.com/mods/482999)
 -   [Remove Crit Lightning](https://gamebanana.com/mods/11813)
 -   [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
--   [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
 -   [Visible Spy Watches While Cloaked](https://gamebanana.com/mods/206225)
 
 ## Scripts
