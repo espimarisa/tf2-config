@@ -8,23 +8,7 @@ Personal Team Fortress 2 config and other custom content that I use.
 
 ## Mods
 
--   [Better Consistent Kill Icons](https://gamebanana.com/mods/406361)
--   [Crit :3 Crit Icon](https://gamebanana.com/mods/471823)
--   [Extended Domination Remover](https://gamebanana.com/mods/298459)
--   [Disable Miss Pauling](https://gamebanana.com/mods/325900)
--   [Flat Textures](https://github.com/JarateKing/CleanTF2plus)
--   [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor)
--   [Life after Life Votesound](https://gamebanana.com/sounds/63961)
--   [Mastercomfig + Addons](https://mastercomfig.com)
--   [Metal Footsteps](custom/_surfaceproperties.vpk)
--   [No Custom Decals](https://gamebanana.com/mods/295666)
--   [No Halloween Healthkits](https://gamebanana.com/mods/401775)
--   [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
--   [Quake III Arena Hit/Killsound](https://gamebanana.com/sounds/21865)
--   [Recompilation of LODs](https://gamebanana.com/mods/482999)
--   [Remove Crit Lightning](https://gamebanana.com/mods/11813)
--   [Resized Explosions, No muzzleflash, shells, or tracers](https://comfig.app/app)
--   [Visible Spy Watches While Cloaked](https://gamebanana.com/mods/206225)
+WIP
 
 ## Scripts
 

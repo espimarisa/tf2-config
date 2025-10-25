@@ -1,2 +1,8 @@
+*.otf binary
+*.png binary
+*.ttf binary
+*.vdf binary
 *.vpk binary
 *.vtf binary
+*.wav binary
+

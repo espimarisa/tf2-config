@@ -1,0 +1,120 @@
+#base "../dev/reload_scheme.res"
+
+"Resource/UI/CharInfoPanel.res"
+{
+	"Character_Info"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"Character_Info"
+		"XPos"										"0"
+		"YPos"										"0"
+		"Wide"										"f0"
+		"Tall"										"480"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"SetTitleBarVisible"						"1"
+		"PaintBackgroundType"						"0"
+		"BGColor_Override"							"Blank"
+		"InFocus_BGColor_Override"					"Blank"
+		"OutOfFocus_BGColor_Override"				"Blank"
+
+		"title"										"#CharInfoAndSetup"
+		"title_font"								"HudFontMediumBold"
+		"titletextinsetX"							"40"
+		"titletextinsetY"							"-4"
+		"titlebarfgcolor_override"					"Blank"
+		"titlebardisabledfgcolor_override"			"Blank"
+		"titlebarbgcolor_override"					"Blank"
+
+		"clientinsetx_override"						"0"
+		"sheetinset_bottom"							"18"
+	}
+	"HeaderBG"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"HeaderBG"
+		"XPos"										"cs-0.5"
+		"YPos"										"0"
+		"ZPos"										"-2"
+		"Wide"										"f0"
+		"Tall"										"f0"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"mouseinputenabled"							"0"
+		"paintBackground"							"1"
+		"paintBackgroundtype"						"0"
+		"BGcolor_Override"							"Background_Main"
+	}
+	"Sheet"
+	{
+		"ControlName"								"EditablePanel"
+		"FieldName"									"Sheet"
+		"tabxindent"								"5"
+		"tabxdelta"									"0"
+		"tabwidth"									"240"
+		"tabheight"									"18"
+		"transition_time"							"0"
+		"yoffset"									"0"
+
+		"TabsKV"
+		{
+			"TextInsetX"							"0"
+			"Font"									"HudFontMediumSmallBold"
+			"selectedcolor"							"Menu_Accent"
+			"unselectedcolor"						"Gray"
+			"PaintBackground"						"0"
+			"activeborder_override"					"NoBorder"
+			"normalborder_override"					"NoBorder"
+		}
+	}
+	"BackButton"
+	{
+		"ControlName"								"CExButton"
+		"FieldName"									"BackButton"
+		"XPos"										"cs-0.5"
+		"YPos"										"rs1"
+		"ZPos"										"2"
+		"Wide"										"f0"
+		"Tall"										"25"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"AllCaps"									"1"
+		"LabelText"									"Back (&Q)"
+		"Font"										"HudFontSmallishBold"
+		"TextAlignment"								"center"
+		"ProportionalToParent"						"1"
+		"Command"									"back"
+		"Sound_Depressed"							"UI/buttonclick.wav"
+
+		"DefaultBGColor_Override"					"Button_Dark"
+		"ArmedBGColor_Override"						"Button_Hover"
+		"DepressedBGColor_Override"					"Button_Dark"
+	}
+	"CloseButton"
+	{
+		"ControlName"								"CExButton"
+		"FieldName"									"CloseButton"
+		"XPos"										"9999"
+		"YPos"										"9999"
+		"Visible"									"1"
+		"Enabled"									"1"
+		"LabelText"									"Close (&E)"
+		"Command"									"close"
+	}
+	"NotificationsPresentPanel"
+	{
+		"ControlName"								"CNotificationsPresentPanel"
+		"FieldName"									"NotificationsPresentPanel"
+		"XPos"										"r200"
+		"YPos"										"10"
+		"ZPos"										"10000"
+		"Wide"										"190"
+		"Tall"										"50"
+		"Visible"									"0"
+		"Enabled"									"1"
+	}
+	"ReloadSchemeButton"
+	{
+		"YPos"										"30"
+	}
+}

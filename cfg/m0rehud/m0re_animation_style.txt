@@ -1,0 +1,3 @@
+event HudHealthBonusPulseLoop { RunEvent HudHealthBonusPulseNumber 0.0 } event HudHealthBonusPulseStop { RunEvent HudHealthBonusPulseStopNumber 0.0 } event HudHealthDyingPulseLoop { RunEvent HudHealthDyingPulseNumber 0.0 } event HudHealthDyingPulseStop { RunEvent HudHealthDyingPulseStopNumber 0.0 } 
+event HudLowAmmoPulseLoop { RunEvent HudLowAmmoPulseNumber 0.0 } event HudLowAmmoPulseStop { RunEvent HudLowAmmoPulseStopNumber 0.0 } 
+event HudMedicChargedLoop { RunEvent HudMedicChargedNumber 0.0 } event HudMedicChargedStop { RunEvent HudMedicChargedStopNumber 0.0 } 
