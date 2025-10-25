@@ -1,1 +1,0 @@
-X { MainMenuOverride { SafeMode { Customizations_Panel { HUD_Customization_Home_Panel { Visible 0 } HUD_Font_Selection { Visible 1 } } } } } 

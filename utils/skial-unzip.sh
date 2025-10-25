@@ -45,7 +45,7 @@ for zip_path in "$SRC_DIR"/*.zip; do
 		output_subdir="$DEST_DIR/$zip_basename"
 		mkdir -p "$output_subdir"
 
-		echo "--- Processing: $zip_path ---"
+		echo "Processing: $zip_path"
 
 		# Unzip the file into its dedicated subdirectory
 		if ! unzip -o -d "$output_subdir" "$zip_path"; then

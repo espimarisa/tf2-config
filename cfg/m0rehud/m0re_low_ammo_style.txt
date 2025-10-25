@@ -1,1 +1,0 @@
-event HudLowAmmoPulseLoop { RunEvent HudLowAmmoPulseFlash 0.0 } event HudLowAmmoPulseStop { RunEvent HudLowAmmoPulseStopFlash 0.0 } 

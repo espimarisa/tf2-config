@@ -1,1 +1,0 @@
-#base ../../custom/m0rehud/resource/ui/customizations/scope_charge/layout_scope_charge.res 
