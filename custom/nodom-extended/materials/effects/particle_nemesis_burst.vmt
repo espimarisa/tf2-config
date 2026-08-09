@@ -1,0 +1,11 @@
+"Spritecard"
+{
+	"$baseTexture" "effects\particle_nemesis_burst"
+	"$no_draw" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$no_fullbright" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
+

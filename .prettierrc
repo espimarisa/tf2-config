@@ -5,15 +5,21 @@
 	"embeddedLanguageFormatting": "auto",
 	"endOfLine": "lf",
 	"experimentalTernaries": true,
-	"htmlWhitespaceSensitivity": "css",
+	"htmlWhitespaceSensitivity": "ignore",
 	"jsxSingleQuote": false,
 	"objectWrap": "preserve",
 	"overrides": [
 		{
-			"files": "*.{yaml,yml}",
+			"files": ["**/*.jsonc"],
 			"options": {
-				"useTabs": false,
-				"tabWidth": 2
+				"trailingComma": "none"
+			}
+		},
+		{
+			"files": ["**/*.{yaml,yml}"],
+			"options": {
+				"tabWidth": 2,
+				"useTabs": false
 			}
 		}
 	],
