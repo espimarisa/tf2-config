@@ -12,7 +12,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor)
 - [Life after Life Votesound](https://gamebanana.com/sounds/63961)
 - [Linux Unicode Fixes](custom/fontfix)
-- [mastercomfig + addons](https://comfig.app/)
+- [mastercomfig v9.10.2](https://comfig.app/)
 - [m0rehud](https://github.com/Hypnootize/m0rehud)
 - [No Custom Decals](https://gamebanana.com/mods/295666)
 - [No Halloween Healthkits](https://gamebanana.com/mods/401775)
