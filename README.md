@@ -6,17 +6,18 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 
 - [Better Consistent Kill Icons](https://gamebanana.com/mods/406361)
 - [Disable Miss Pauling](https://gamebanana.com/mods/325900)
-- [Disable Killstreak Sounds](custom/sound/customsounds/sound/misc/killstreak.wav)
+- [Disable Killstreak Sounds](custom/customsounds/sound/misc/killstreak.wav)
 - [Domination Removal Extended](https://gamebanana.com/mods/298459)
 - [Flat Textures, RGL Legal](https://github.com/palmtopangie/FlatTF2RGL)
 - [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor)
 - [Life after Life Votesound](https://gamebanana.com/sounds/63961)
-- [Linux Unicode Fixes](custom/fontfix)
+- [Linux Unicode Fixes](custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
 - [mastercomfig v9.10.2](https://comfig.app/)
 - [m0rehud](https://github.com/Hypnootize/m0rehud)
 - [No Custom Decals](https://gamebanana.com/mods/295666)
 - [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
+- [Disable Machina Collateral Sounds](custom/sound/)
 - [No Noisemakers](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
 - [Preload Room](maps/preload_room.bsp)
 - [Quake III Arena Hitsound](https://gamebanana.com/sounds/21865)
@@ -25,7 +26,6 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Remove Crit Lightning](https://gamebanana.com/mods/11813)
 - [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
 - [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
-- [Visible Spy Watches While Cloaked](https://gamebanana.com/mods/206225)
 
 ## Scripts
 
@@ -41,7 +41,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 
 ## Launch Options
 
-`gamemoderun %command% -fullscreen -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -no_texture_stream -nohltv -particles 1 -condebug -console +exec preload.cfg`
+`gamemoderun mangohud obs-vkcapture %command% -fullscreen -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -no_texture_stream -nohltv -particles 1 -condebug -console +exec preload.cfg`
 
 ## Linux Tools
 
