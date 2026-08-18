@@ -14,7 +14,6 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Linux Unicode Fixes](custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
 - [mastercomfig v9.10.2](https://comfig.app/)
 - [m0rehud](https://github.com/Hypnootize/m0rehud)
-- [No Custom Decals](https://gamebanana.com/mods/295666)
 - [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 - [Disable Machina Collateral Sounds](custom/sound/)
@@ -26,6 +25,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Remove Crit Lightning](https://gamebanana.com/mods/11813)
 - [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
 - [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
+- [Transparent Flamethrower Viewmodels](https://gamebanana.com/mods/348622)
 
 ## Scripts
 
@@ -45,18 +45,18 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 
 ## Linux Tools
 
--   [Cache cleaner](./utils/cache-cleaner.sh)
--   [VPK zipper/unzipper](./utils/skial-zip.sh)
+- [Cache cleaner](./utils/cache-cleaner.sh)
+- [VPK zipper/unzipper](./utils/skial-zip.sh)
 
 ## Special Thanks
 
--   [Angie](https://github.com/palmtopangie) for helping me modernize my very ancient config and teaching me a lot, as well as for the Linux Unicode Fixes as well as Flat Textures, RGL Legal.
--   [mastercoms](https://github.com/mastercoms) for her excellent work on [mastercomfig](https://mastercomfig) and generally documenting the mess of a game that this is.
+- [Angie](https://github.com/palmtopangie) for helping me modernize my very ancient config and teaching me a lot, as well as for the Linux Unicode Fixes as well as Flat Textures, RGL Legal.
+- [mastercoms](https://github.com/mastercoms) for her excellent work on [mastercomfig](https://mastercomfig) and generally documenting the mess of a game that this is.
 
 ## License
 
 All content is licensed under their original authors, with the following exceptions being licensed under the [zlib](LICENSE.md) license.
 
--   This documentation
--   [Personal config](./cfg/overrides)
--   [Utilities](./utils/)
+- This documentation
+- [Personal config](./cfg/overrides)
+- [Utilities](./utils/)
