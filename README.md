@@ -5,7 +5,6 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 ## Mods
 
 - [Better Consistent Kill Icons](https://gamebanana.com/mods/406361)
-- [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 - [Disable Killstreak Sounds](custom/customsounds/sound/misc/killstreak.wav)
 - [Domination Removal Extended](https://gamebanana.com/mods/298459)
 - [Flat Textures, RGL Legal](https://github.com/palmtopangie/FlatTF2RGL)
@@ -14,7 +13,6 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Linux Unicode Fixes](custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
 - [mastercomfig v9.10.2](https://comfig.app/)
 - [m0rehud](https://github.com/Hypnootize/m0rehud)
-- [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 - [Disable Machina Collateral Sounds](custom/sound/)
 - [No Noisemakers](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
