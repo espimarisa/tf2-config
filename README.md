@@ -11,7 +11,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor)
 - [Life after Life Votesound](https://gamebanana.com/sounds/63961)
 - [Linux Unicode Fixes](custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
-- [mastercomfig v9.10.2](https://comfig.app/)
+- [mastercomfig](https://comfig.app/)
 - [m0rehud](https://github.com/Hypnootize/m0rehud)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 - [Disable Machina Collateral Sounds](custom/sound/)
