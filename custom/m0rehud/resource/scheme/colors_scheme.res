@@ -9,11 +9,11 @@
 		//----------------------------------------------------------------------------------
 		"Health_Numbers"									"255 255 255 255"
 
-		"Health_Buff"										"0 185 0 255"
-		"Health_Shadow_Buff"								"0 185 0 255"
-		"Health_Buff_Target"								"0 215 0 255"
-		"Health_Buff_Spectator"								"0 215 0 255"
-		"Health_Buff_Killer"								"0 215 0 255"
+		"Health_Buff"										"0 255 0 255"
+		"Health_Shadow_Buff"								"0 255 0 255"
+		"Health_Buff_Target"								"0 255 0 255"
+		"Health_Buff_Spectator"								"0 255 0 255"
+		"Health_Buff_Killer"								"0 255 0 255"
 
 		"Health_Hurt"										"255 0 0 255"
 		"Health_Shadow_Hurt"								"255 0 0 255"

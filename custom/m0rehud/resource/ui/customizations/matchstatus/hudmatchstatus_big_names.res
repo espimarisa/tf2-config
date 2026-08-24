@@ -4,11 +4,13 @@
 	{
 		"Tall"										"22"
 		"max_size"									"27"
-
-		"team1_max_expand"							"260"
-
-		"team2_max_expand"							"260"
-
+		"ypos"                                      "r25"
+		"team1_grow_dir"    "west"
+        "team1_base_x"      "c-100"
+        "team1_max_expand"  "200"
+        "team2_grow_dir"    "east"
+        "team2_base_x"      "c100"
+        "team2_max_expand"  "200"
 		"PlayerPanels_KV"
 		{
 			"PlayerName"
