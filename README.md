@@ -14,7 +14,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Life after Life Votesound](https://gamebanana.com/sounds/63961)
 - [Linux Unicode Fixes](./custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
 - [mastercomfig](https://comfig.app/)
-- [m0rehud + customizations](./custom/m0rehud-espimarisa-edits)
+- [m0rehud + customizations](./custom/m0rehud)
 - [No Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
 - [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)

@@ -1,0 +1,18 @@
+November 30, 2020
+
+find the .res file that handles killfeed, see if we can remove specific message logic.  this used to be possible at some point?  for now the only thing that remains is the killfeed notification.
+
+i'm personally just setting hud_deathnotice_time 0, i would recommend you do that if you really need to hide it (though losing the killfeed is an obvious drawback).  this mod won't do that for you, you have to do that yourself.
+
+-----
+
+June 24, 2021
+
+CHANGES:
+finally cracked open the PCF files; unless you're on an sv_pure server it shouldn't even try to spawn the nemesis particles.  should that fail, the VMTs are all set to $no_draw 1.  i noticed before that just editing the VTFs to be blank isn't good enough, and nemesis particles were still visible above people's heads.
+
+TODO:
+i have still yet to find killfeed logic.  every single resource on the net is happy to tell me how to edit the HUD element, but there seems to be absolutely no file that dictates the actual logic behind it.
+
+NOTES:
+it is possible to remove the nemesis info from the deathcam, but having custom HUDs installed will overwrite it.  freezepanel_basic.res included in this pack should remove it if you're running default TF2 HUD, but you will have to edit the respective file in your custom HUD if you use one, afaik.
