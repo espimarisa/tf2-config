@@ -75,7 +75,7 @@ event HudHealthDyingPulseNumber
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0
 
 	// TARGET HEALTH --------------------------------------------------------------------------------------------------------
-	Animate HealthValue_Target						FGColor		"Health_Hurt_Target"				Linear	0.0		0.0
+	Animate HealthValue_Target						FGColor		"255 0 0 255"				Linear	0.0		0.0
 
 	// SPECTATOR HEALTH -----------------------------------------------------------------------------------------------------
 	Animate HealthValue_Spec						FGColor		"Health_Hurt_Spectator"				Linear	0.0		0.0

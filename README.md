@@ -10,25 +10,20 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Disable Killstreak Sounds](./custom/customsounds/sound/misc/killstreak.wav)
 - [Domination Removal Extended](https://gamebanana.com/mods/298459)
 - [Flat Textures, RGL Legal](https://github.com/palmtopangie/FlatTF2RGL)
+- [Green Dead Ringer Meter](./custom/green-dead-ringer.vpk)
 - [Horsie's Viewmodel Editor](https://github.com/a-horsey/horsies-viewmodel-editor)
 - [Life after Life Votesound](https://gamebanana.com/sounds/63961)
 - [Linux Unicode Fixes](./custom/customsounds/sound/misc/sniper_railgun_double_kill.wav)
 - [mastercomfig](https://comfig.app/)
 - [m0rehud + customizations](./custom/m0rehud)
-- [No Action Items](https://pevhs.ch/tf2/vpk/nhbgum/)
-- [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 - [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 - [No Max's Severed Head](https://gamebanana.com/mods/710585)
 - [No Noisemakers](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
-- [No Shells](./custom/no-shells.vpk)
-- [No Unusuals](https://pevhs.ch/tf2/vpk/nhbgum/)
-- [No Weapon Gibs](./custom/no-weapon-gibs.vpk)
 - [No Zombie Skins](https://pevhs.ch/tf2/vpk/nhbgum/)
 - [Preload Room](./maps/preload_room.bsp)
 - [Quake III Arena Hitsound](https://gamebanana.com/sounds/21865)
 - [Quake III Arena Mini-Crit Sound](https://gamebanana.com/sounds/22789)
 - [Quake III Arena Crit Sound](https://gamebanana.com/sounds/22809)
-- [Remove Crit Lightning](https://gamebanana.com/mods/11813)
 - [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
 - [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
 - [Transparent Flamethrower Viewmodels](https://gamebanana.com/mods/348622)
@@ -48,7 +43,7 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 
 ## Launch Options
 
-`-fullscreen -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -no_texture_stream -nohltv -particles 1 -condebug -console +exec preload.cfg`
+`-fullscreen -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -condebug -console +exec preload.cfg`
 
 ## Linux Tools
 
