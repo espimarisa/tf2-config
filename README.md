@@ -26,7 +26,6 @@ My Team Fortress 2 config, scripts, and custom content that I use.
 - [Quake III Arena Crit Sound](https://gamebanana.com/sounds/22809)
 - [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
 - [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
-- [Transparent Flamethrower Viewmodels](https://gamebanana.com/mods/348622)
 - [Visible Spy Watch Viewmodels](https://gamebanana.com/mods/580370)
 
 ## Scripts
